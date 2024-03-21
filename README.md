@@ -5,4 +5,5 @@ The only dependencies are:
 - gymnasium 0.29.1
 - numpy 
 - time
+- torch
 
